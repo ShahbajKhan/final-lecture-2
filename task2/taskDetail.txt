@@ -1,0 +1,4 @@
+You will have to make a card with each array element.
+Use ES6 array methods.
+Use Object destructuring
+Use ternary operator or logical operators to handle null values.
