@@ -28,13 +28,10 @@ const data = [
       name: "Chevrolet Crossover",
       price: "434",
       description:
-        "Vehicle Type: Crossover, Doors: 5, Seats: 7, Luggage: 5Suitcases / 5Bags, Transmission: Automatic",
-      
+      "Vehicle Type: Crossover, Doors: 5, Seats: 7, Luggage: 5Suitcases / 5Bags, Transmission: Automatic",
+      imageURL: "https://i.ibb.co/SJK7QYs/isuzu.png", 
     },
   ];
 
 
-// js array map, filter, find , reduce, forEach
-// Object methods=> MediaKeySession, values, entries
-// Concept of mutation and immutation
 
